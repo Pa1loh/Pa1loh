@@ -5,9 +5,17 @@ Um pouco sobre mim:
 
 - 💻 Cursando Engenharia de Software, Atualmente no ultimo ano...
 - 🌱 Sempre em buscas de novos conhecimentos, ultimamente estou focando em livros ...
+- 💦 Estudando a area de frton end, com Figma e React Native ...
 - 💬 Utilizo o GitHub para deixar salvos alguns projetos com finalidade de aprendizado ...
 - 📫 Você pode me encontrar no Linkedin e Instagram támbem: [Linkedin](https://www.linkedin.com/in/paulo-henrique-5623491b1/) e [Instagram](https://www.instagram.com/pa1loh/)
 - ⚡ Nas horas livres gosto muito de jogar Counter-Strike, Magic e praticar futsal.
+
+###Trabalho atual:
+- 👨‍💻 Trabalhando atualmente na InfinitSolucoes,
+- 🔥 Desenvolvimento Fullstack com C# e WindowsForms
+- 📌 Banco de dados Mysql e SqlServer
+- 🔧 Utilizando DevExpress, EntityFramework
+
 
 <div>
 <a href="https://github.com/pa1loh">
