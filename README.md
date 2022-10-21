@@ -10,6 +10,7 @@ Um pouco sobre mim:
 - 📫 Você pode me encontrar no Linkedin e Instagram támbem: [Linkedin](https://www.linkedin.com/in/paulo-henrique-5623491b1/) e [Instagram](https://www.instagram.com/pa1loh/)
 - ⚡ Nas horas livres gosto muito de jogar Counter-Strike, Magic e praticar futsal.
 
+
 ### Trabalho atual:
 - 👨‍💻 Trabalhando atualmente na InfinitSolucoes,
 - 🔥 Desenvolvimento Fullstack com C# e WindowsForms
