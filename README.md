@@ -9,7 +9,7 @@ Sou um profissional apaixonado por tecnologia, com mais de 3 anos de experiênci
 - 🎓 Cursando o último ano de **Engenharia de Software**  
 - 💡 Focado em boas práticas de desenvolvimento com **SOLID, TDD, Clean Code e Design Patterns**
 - 🧪 Experiência com **testes unitários** usando `xUnit` e `Moq`
-- 💼 Trabalho atual: **Desenvolvedor FullStack
+- 💼 Trabalho atual: **Desenvolvedor FullStack**
 - 🔄 Atuo com **.NET 8, Blazor, Angular, Microserviços e CI/CD com Azure DevOps**
 - 🗄️ Banco de dados: **Oracle, MySQL, SQL Server e PostgreSQL**
 - 🎯 Também atuo com **Swagger, DevExpress, Windows Forms e migração de bancos**
